@@ -109,7 +109,8 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 100dvh;
-  padding: 136px var(--spacing-48px);
+  padding-top: 150px;
+  padding: 0 var(--spacing-48px);
 }
 
 .recipe {
