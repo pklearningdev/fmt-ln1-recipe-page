@@ -111,8 +111,8 @@ body {
   min-height: 100dvh;
   padding-left: var(--spacing-48px);
   padding-right: var(--spacing-48px);
-  padding-top: 126px;
-  padding-bottom: 126px;
+  padding-top: 124px;
+  padding-bottom: 124px;
 }
 
 .recipe {
