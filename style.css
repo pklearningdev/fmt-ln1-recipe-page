@@ -300,14 +300,14 @@ body {
 
 
 /* RESPONSIVE LAYOUT */
-
-@media (max-width: 768px) {
+/* 768px */
+@media (max-width: 48rem) {
   .recipe {
     max-width: 38.5rem;
   }
 }
 
-
+/* 768px */
 @media (max-width: 375px) {
   :root {
     --font-size-40px: 2.125rem;
