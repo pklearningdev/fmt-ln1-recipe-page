@@ -2,6 +2,11 @@
 
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
 
+## Links
+
+- Solution URL: [GitHub Repository](https://github.com/pklearningdev/fmt-ln1-recipe-page)
+- Live Site URL: [GitHub Pages](https://pklearningdev.github.io/fmt-ln1-recipe-page/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

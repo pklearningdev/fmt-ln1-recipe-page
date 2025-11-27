@@ -107,7 +107,6 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   min-height: 100dvh;
   padding: var(--spacing-128px) var(--spacing-48px);
